@@ -1,0 +1,29 @@
+
+<div class="container loader" *ngIf="!loading">
+
+</div>
+
+<div class="container data-wrapper" *ngIf="loading">
+
+    <div  class="col-md-4 mrg-top" *ngFor="let shoppingData of data | slice: (page-1) * pageSize : (page-1) * pageSize + pageSize" 
+    [routerLink]="['/collection',shoppingData.Title]">
+        <div class="col-md-12">
+            <img width="200px" height="200px"class="logo" [src]="shoppingData.poster">
+        </div>
+       
+            <div class="col-md-5">{{shoppingData.Title}}</div>
+            <div class="col-md-2"><span>$</span>{{shoppingData.price}}</div>
+            <div class="col-md-5"></div>
+           
+           
+        
+    </div>
+    <div class="col-md-8">
+        <br/>
+    <div class=" col-md-6 pagination-wrapper">
+    <ngb-pagination [collectionSize]="data.length" [(page)]="page" [maxSize]="5" 
+    [rotate]="true" [ellipses]="false" [boundaryLinks]="true"></ngb-pagination>
+    </div>
+    </div>
+    
+</div>

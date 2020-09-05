@@ -1,0 +1,29 @@
+p{
+    font-family:courier;
+    font-size:1rem;
+    color:lightslategray;
+}
+h3{
+    color:#3e70ad;
+}
+span{
+    color:green;
+}
+button{
+    background-color: royalblue;
+    color:whitesmoke;
+}
+.wrap-marg{
+position: relative;
+    top: 5px;
+    padding-left: 0px;
+}
+.wrapper-container{
+    position: relative;
+    padding:20px 150px;;
+    
+    
+}
+.modal.show{
+    display:block !important;
+}

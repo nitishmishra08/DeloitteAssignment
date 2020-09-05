@@ -1,0 +1,33 @@
+.openbtn {
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #111;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+  }
+  
+  .openbtn:hover {
+    background-color: #444;
+  }
+  .right-nav{
+    position: relative;
+    top:5px;
+    left:5px;
+  }
+  input {
+     border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove ;
+    border-bottom-color:yellow;
+    border-bottom-width:5px ;
+    background-color:whitesmoke !important; 
+    
+  }
+  .no-outline:focus {
+    outline: none;
+  }
+  .mrg-left{
+    margin-left:-10px;
+  }

@@ -1,0 +1,23 @@
+<nav class="navbar navbar-light bg-light">
+    <div class="container-fluid">
+    <div class="navbar-header">
+        <button class="openbtn" onclick="openNav()">☰ </button> 
+       <!--  <a class="navbar-brand" href="#">WebSiteName</a> -->
+      </div>
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li class="active"><a href="#">Shop</a></li>
+        <li class="active"><a href="#">Magazine</a></li>
+        <li ><a class="glyphicon glyphicon-shopping-cart" routerLink="/mycart">MyCart</a> </li>
+       
+        
+      </ul>
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+        <li class="glyphicon glyphicon-search"><input type="text" class=" no-outline" placeholder="Search" [(ngModel)]="searchTerm" /></li>
+        
+      <li class="right-nav"><span class="glyphicon glyphicon-log-in"></span> Login</li>
+      </ul>
+    </div>
+  </nav>

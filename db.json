@@ -1,0 +1,173 @@
+{
+  "collection": [
+      {
+          "Title": "Combos",
+          "Name": "Scanvidian Chair",
+          "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+          "poster": "https://i.pinimg.com/564x/6f/4a/bd/6f4abd40a1b2d2f566a31bd3498c6651.jpg",
+          "color": "black",
+          "price": 2500
+      },
+      {
+          "Title": "Keeves Set",
+          "Name": "New Orleans Collection",
+          "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+          "poster": "https://i.pinimg.com/564x/47/03/0d/47030da45c951f2cc7ee3e494419adbd.jpg",
+          "color": "red",
+          "price": 450
+      },
+      {
+          "Title": "Nile",
+          "Name": "Elegant Paris",
+          "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+          "poster": "https://media.architecturaldigest.com/photos/5e8f8e7a53d7c800096dd138/master/w_650,h_634,c_limit/prod18010010_E512395783_F_RS.jfif",
+          "color": "green",
+          "price": 650
+      },
+      {
+        "Title": "Combos",
+        "Name": "Scanvidian Chair",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/6f/4a/bd/6f4abd40a1b2d2f566a31bd3498c6651.jpg",
+        "color": "black",
+        "price": 250
+    },
+    {
+        "Title": "Keeves Set",
+        "Name": "New Orleans Collection",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/47/03/0d/47030da45c951f2cc7ee3e494419adbd.jpg",
+        "color": "red",
+        "price": 450
+    },
+    {
+        "Title": "Nile",
+        "Name": "Elegant Paris",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://media.architecturaldigest.com/photos/5e8f8e7a53d7c800096dd138/master/w_650,h_634,c_limit/prod18010010_E512395783_F_RS.jfif",
+        "color": "green",
+        "price": 650
+    },
+    {
+        "Title": "Combos",
+        "Name": "Scanvidian Chair",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/6f/4a/bd/6f4abd40a1b2d2f566a31bd3498c6651.jpg",
+        "color": "black",
+        "price": 250
+    },
+    {
+        "Title": "Keeves Set",
+        "Name": "New Orleans Collection",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/47/03/0d/47030da45c951f2cc7ee3e494419adbd.jpg",
+        "color": "red",
+        "price": 450
+    },
+    {
+        "Title": "Nile",
+        "Name": "Elegant Paris",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://media.architecturaldigest.com/photos/5e8f8e7a53d7c800096dd138/master/w_650,h_634,c_limit/prod18010010_E512395783_F_RS.jfif",
+        "color": "green",
+        "price": 650
+    },
+    {
+        "Title": "Combos",
+        "Name": "Scanvidian Chair",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/6f/4a/bd/6f4abd40a1b2d2f566a31bd3498c6651.jpg",
+        "color": "black",
+        "price": 250
+    },
+    {
+        "Title": "Keeves Set",
+        "Name": "New Orleans Collection",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/47/03/0d/47030da45c951f2cc7ee3e494419adbd.jpg",
+        "color": "red",
+        "price": 450
+    },
+    {
+        "Title": "Nile",
+        "Name": "Elegant Paris",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://media.architecturaldigest.com/photos/5e8f8e7a53d7c800096dd138/master/w_650,h_634,c_limit/prod18010010_E512395783_F_RS.jfif",
+        "color": "green",
+        "price": 650
+    },
+    {
+        "Title": "Combos",
+        "Name": "Scanvidian Chair",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/6f/4a/bd/6f4abd40a1b2d2f566a31bd3498c6651.jpg",
+        "color": "black",
+        "price": 250
+    },
+    {
+        "Title": "Keeves Set",
+        "Name": "New Orleans Collection",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/47/03/0d/47030da45c951f2cc7ee3e494419adbd.jpg",
+        "color": "red",
+        "price": 450
+    },
+    {
+        "Title": "Nile",
+        "Name": "Elegant Paris",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://media.architecturaldigest.com/photos/5e8f8e7a53d7c800096dd138/master/w_650,h_634,c_limit/prod18010010_E512395783_F_RS.jfif",
+        "color": "green",
+        "price": 650
+    },
+    {
+        "Title": "Combos",
+        "Name": "Scanvidian Chair",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/6f/4a/bd/6f4abd40a1b2d2f566a31bd3498c6651.jpg",
+        "color": "black",
+        "price": 250
+    },
+    {
+        "Title": "Keeves Set",
+        "Name": "New Orleans Collection",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/47/03/0d/47030da45c951f2cc7ee3e494419adbd.jpg",
+        "color": "red",
+        "price": 450
+    },
+    {
+        "Title": "Nile",
+        "Name": "Elegant Paris",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://media.architecturaldigest.com/photos/5e8f8e7a53d7c800096dd138/master/w_650,h_634,c_limit/prod18010010_E512395783_F_RS.jfif",
+        "color": "green",
+        "price": 650
+    },
+    {
+        "Title": "Combos",
+        "Name": "Scanvidian Chair",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/6f/4a/bd/6f4abd40a1b2d2f566a31bd3498c6651.jpg",
+        "color": "black",
+        "price": 250
+    },
+    {
+        "Title": "Keeves Set",
+        "Name": "New Orleans Collection",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://i.pinimg.com/564x/47/03/0d/47030da45c951f2cc7ee3e494419adbd.jpg",
+        "color": "red",
+        "price": 450
+    },
+    {
+        "Title": "Nile",
+        "Name": "Elegant Paris",
+        "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+        "poster": "https://media.architecturaldigest.com/photos/5e8f8e7a53d7c800096dd138/master/w_650,h_634,c_limit/prod18010010_E512395783_F_RS.jfif",
+        "color": "green",
+        "price": 650
+    }
+  ]
+ 
+}
