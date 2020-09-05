@@ -13,6 +13,7 @@ export class ItemDetailComponent implements OnInit,OnDestroy {
   itemDetails:any;
   loadingIndicator:boolean =false;
   susbscription:Subscription;
+  
   constructor(
     private collectionService:CollectionService,
     private route: ActivatedRoute,
@@ -36,13 +37,6 @@ export class ItemDetailComponent implements OnInit,OnDestroy {
       });
 
 }
- 
-  /* AddProduct() {
-    this.router.navigate(['/mycart',this.itemDetails.Title]);
-      
-} */
-
-
 ngOnDestroy(){
   this.susbscription.unsubscribe();
 }
