@@ -1,0 +1,29 @@
+{
+    "collection": [
+        {
+            "Title": "Combos",
+            "Name": "Scanvidian Chair",
+            "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+            "poster": "/home/niraj/Deloitte_Assignment/Assignment/shoppingApp/src/assets/img/one.jpg",
+            "color": "black",
+            "price": 250
+        },
+        {
+            "Title": "Keeves Set",
+            "Name": "New Orleans Collection",
+            "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+            "poster": "/home/niraj/Deloitte_Assignment/Assignment/shoppingApp/src/assets/img/two.jpg",
+            "color": "red",
+            "price": 450
+        },
+        {
+            "Title": "Nile",
+            "Name": "Elegant Paris",
+            "Description": "Its very comfortable and the fabrics are also good.Well suited for my place",
+            "poster": "/home/niraj/Deloitte_Assignment/Assignment/shoppingApp/src/assets/img/three.jpg",
+            "color": "green",
+            "price": 650
+        }
+    ]
+   
+}
