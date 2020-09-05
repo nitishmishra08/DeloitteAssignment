@@ -29,9 +29,10 @@ filterItem=[];
   }
   set searchTerm(value: string) {
     this._searchTerm = value;
-    this.filterItem = this.filteredItems(value)
+    //this.filterItem = this.filteredItems(value);
+    this.collectionService.itemSubject.next( this._searchTerm);
   }
-  filteredItems(searchString: string) {
+  /* filteredItems(searchString: string) {
     
     this.collectionService.itemSubject.next(this.item.filter(user =>
       user.Title.toLowerCase().indexOf(searchString.toLowerCase()) !== -1
@@ -40,6 +41,6 @@ filterItem=[];
     return this.item.filter(user =>
       user.Name.toLowerCase().indexOf(searchString.toLowerCase()) !== -1
     );
-  }
+  } */
 
 }

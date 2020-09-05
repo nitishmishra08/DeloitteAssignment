@@ -19,11 +19,13 @@ export class CollectionService {
    
  
   getCollectionItemsDetail(){
-      return this.http.get('http://localhost:3000/collection');
+      //return this.http.get('http://localhost:3000/collection');
+      return this.http.get('https://my-json-server.typicode.com/nitishmishra08/dummyJson/collection');
     
   }
   fetchCollectionObjects(itemTitle:string) {
-    let url:string = 'http://localhost:3000/collection?Title='+itemTitle ;
+    //let url:string = 'http://localhost:3000/collection?Title='+itemTitle ;
+    let url:string = 'https://my-json-server.typicode.com/nitishmishra08/dummyJson/collection?Title='+itemTitle ;
         return this.http.get(url);
       }
   

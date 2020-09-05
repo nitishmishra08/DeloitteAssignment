@@ -9,7 +9,7 @@ import { CollectionService } from '../item-detail/service/collection-item.servic
   styleUrls: ['./content.component.scss']
 })
 export class ContentComponent implements OnInit {
-  
+  searchText:string;
   data:any=[];
   page = 1;
   pageSize =6;
@@ -20,16 +20,15 @@ export class ContentComponent implements OnInit {
   ngOnInit() {
      this.collectionService.getCollectionItemsDetail().subscribe(val =>{
       this.data = val;
-      this.collectionService.itemSubject.next(this.data);
-     this.loading=true;
+      this.loading=true;
       
      });
 
      this.collectionService.itemSubject.subscribe(val =>{
-       if(val.length !==0){
-        
-         this.data= val;
-       }
+       
+       if(val){
+        this.searchText= val;
+        }
      })
     
   }
